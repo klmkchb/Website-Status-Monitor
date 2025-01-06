@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**]([https://upptime.github.io/upptime](https://klmkchb.github.io/Website-Status-Monitor/)
+[**Visit our status website →**](https://klmkchb.github.io/Website-Status-Monitor)
 
 ## 📄 License
 
