@@ -1,7 +1,7 @@
 [
   {
     "name": "CHBank.com",
-    "url": "https://www.chbank.com/",
+    "url": "https://www.chbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "ch-bank-com",
     "status": "up",
@@ -10,30 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2373,
-    "timeDay": 2373,
-    "timeWeek": 2373,
-    "timeMonth": 2373,
-    "timeYear": 2373,
+    "time": 2259,
+    "timeDay": 2259,
+    "timeWeek": 2259,
+    "timeMonth": 2259,
+    "timeYear": 2259,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
+    "name": "CHBank CN",
+    "url": "https://www.chbank.com.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
+    "slug": "ch-bank-cn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "6.37%",
+    "uptimeDay": "6.37%",
+    "uptimeWeek": "6.37%",
+    "uptimeMonth": "6.37%",
+    "uptimeYear": "6.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-06": 0
+    }
   },
   {
     "name": "IPv6 test",
