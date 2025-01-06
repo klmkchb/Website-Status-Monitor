@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
     "slug": "ch-bank-cn",
     "status": "up",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1040,
     "timeDay": 1040,
     "timeWeek": 1040,
     "timeMonth": 1040,
     "timeYear": 1040,
-    "dailyMinutesDown": {
-      "2025-01-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IPv6 test",
