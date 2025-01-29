@@ -4,18 +4,20 @@
     "url": "https://www.chbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2315,
-    "timeDay": 2235,
-    "timeWeek": 2362,
-    "timeMonth": 2315,
-    "timeYear": 2315,
-    "dailyMinutesDown": {}
+    "time": 2329,
+    "timeDay": 2456,
+    "timeWeek": 2401,
+    "timeMonth": 2329,
+    "timeYear": 2329,
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "chbank.com.cn",
