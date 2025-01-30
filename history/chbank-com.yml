@@ -1,7 +1,7 @@
 url: https://www.chbank.com
-status: down
-code: 502
-responseTime: 2583
-lastUpdated: 2025-01-29T23:26:52.495Z
+status: up
+code: 200
+responseTime: 2336
+lastUpdated: 2025-01-30T02:59:25.352Z
 startTime: 2025-01-06T06:23:12.649Z
 generator: Upptime <https://github.com/upptime/upptime>
