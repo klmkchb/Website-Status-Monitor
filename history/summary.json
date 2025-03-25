@@ -4,10 +4,10 @@
     "url": "https://www.chbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 2525,
@@ -16,6 +16,7 @@
     "timeMonth": 2588,
     "timeYear": 2525,
     "dailyMinutesDown": {
+      "2025-03-25": 1,
       "2025-02-10": 27,
       "2025-01-30": 156,
       "2025-01-29": 200
