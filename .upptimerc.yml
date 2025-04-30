@@ -9,8 +9,8 @@ sites:
     url: http://www.chbank.com.cn
   - name: online.chsec.com.hk
     url: https://www.online.chsec.com.hk
-  -name: mobile.chsec.com.hk
-  url: https://www.mobile.chsec.com.hk
+  - name: mobile.chsec.com.hk
+    url: https://www.mobile.chsec.com.hk
   # - name: IPv6 test
   #    url: forwardemail.net
   #    port: 80
