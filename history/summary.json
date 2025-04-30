@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 2760,
-    "timeDay": 2789,
-    "timeWeek": 2612,
-    "timeMonth": 2631,
-    "timeYear": 2760,
+    "time": 2761,
+    "timeDay": 2879,
+    "timeWeek": 2656,
+    "timeMonth": 2641,
+    "timeYear": 2761,
     "dailyMinutesDown": {
       "2025-03-26": 91,
       "2025-03-25": 16,
@@ -35,12 +35,52 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1331,
-    "timeDay": 1258,
-    "timeWeek": 1334,
-    "timeMonth": 1456,
+    "timeDay": 1254,
+    "timeWeek": 1324,
+    "timeMonth": 1450,
     "timeYear": 1331,
     "dailyMinutesDown": {
       "2025-03-26": 109
+    }
+  },
+  {
+    "name": "online.chsec.com.hk",
+    "url": "https://www.online.chsec.com.hk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.online.chsec.com.hk.ico",
+    "slug": "online-chsec-com-hk",
+    "status": "down",
+    "uptime": "18.89%",
+    "uptimeDay": "18.89%",
+    "uptimeWeek": "18.89%",
+    "uptimeMonth": "18.89%",
+    "uptimeYear": "18.89%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-04-30": 0
+    }
+  },
+  {
+    "name": "mobile.chsec.com.hk",
+    "url": "https://www.mobile.chsec.com.hk",
+    "icon": "https://icons.duckduckgo.com/ip3/www.mobile.chsec.com.hk.ico",
+    "slug": "mobile-chsec-com-hk",
+    "status": "down",
+    "uptime": "18.30%",
+    "uptimeDay": "18.30%",
+    "uptimeWeek": "18.30%",
+    "uptimeMonth": "18.30%",
+    "uptimeYear": "18.30%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-04-30": 0
     }
   }
 ]
