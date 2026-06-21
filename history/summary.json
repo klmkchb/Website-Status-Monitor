@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2741,
-    "timeDay": 2625,
-    "timeWeek": 2886,
-    "timeMonth": 2850,
-    "timeYear": 2712,
+    "time": 2742,
+    "timeDay": 2933,
+    "timeWeek": 2813,
+    "timeMonth": 2841,
+    "timeYear": 2713,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
     "slug": "chbank-com-cn",
     "status": "up",
-    "uptime": "81.51%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.01%",
+    "uptime": "81.52%",
+    "uptimeDay": "35.85%",
+    "uptimeWeek": "5.12%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "73.14%",
-    "time": 1236,
-    "timeDay": 1011,
-    "timeWeek": 908,
-    "timeMonth": 986,
-    "timeYear": 1214,
+    "time": 1233,
+    "timeDay": 953,
+    "timeWeek": 893,
+    "timeMonth": 994,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-07-17": 95,
       "2025-07-31": 193,
@@ -165,7 +165,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 1080,
+      "2026-06-21": 156,
+      "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -528,8 +529,7 @@
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
-      "2025-06-22": 1440,
-      "2025-06-21": 1440
+      "2025-06-22": 1440
     }
   },
   {
@@ -549,7 +549,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 1080,
+      "2026-06-21": 156,
+      "2026-06-20": 1440,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -912,8 +913,7 @@
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
-      "2025-06-22": 1440,
-      "2025-06-21": 1440
+      "2025-06-22": 1440
     }
   }
 ]
