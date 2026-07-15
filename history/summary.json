@@ -4,19 +4,19 @@
     "url": "https://www.chbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "89.79%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
     "time": 2736,
-    "timeDay": 1771,
-    "timeWeek": 2561,
-    "timeMonth": 2742,
-    "timeYear": 2714,
+    "timeDay": 2026,
+    "timeWeek": 2558,
+    "timeMonth": 2736,
+    "timeYear": 2713,
     "dailyMinutesDown": {
-      "2026-07-15": 1
+      "2026-07-15": 147
     }
   },
   {
@@ -28,7 +28,7 @@
     "uptime": "82.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.54%",
+    "uptimeMonth": "81.88%",
     "uptimeYear": "73.14%",
     "time": 1209,
     "timeDay": 899,
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 194,
+      "2026-07-15": 341,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -551,7 +551,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 194,
+      "2026-07-15": 341,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
