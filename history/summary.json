@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2768,
-    "timeDay": 2749,
-    "timeWeek": 2703,
-    "timeMonth": 3884,
-    "timeYear": 2820,
+    "timeDay": 2646,
+    "timeWeek": 2701,
+    "timeMonth": 3878,
+    "timeYear": 2819,
     "dailyMinutesDown": {
       "2026-07-15": 147
     }
@@ -25,19 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
     "slug": "chbank-com-cn",
     "status": "up",
-    "uptime": "83.34%",
+    "uptime": "83.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.54%",
     "time": 1181,
-    "timeDay": 741,
-    "timeWeek": 1049,
-    "timeMonth": 1012,
-    "timeYear": 1173,
+    "timeDay": 862,
+    "timeWeek": 1034,
+    "timeMonth": 1008,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2025-08-20": 86,
-      "2025-08-19": 366,
       "2025-09-02": 51,
       "2025-09-08": 99,
       "2025-09-07": 50,
@@ -160,7 +159,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 34,
+      "2026-08-19": 35,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -523,8 +523,7 @@
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
-      "2025-08-20": 1440,
-      "2025-08-19": 1440
+      "2025-08-20": 1440
     }
   },
   {
@@ -544,7 +543,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 34,
+      "2026-08-19": 35,
+      "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -907,8 +907,7 @@
       "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
-      "2025-08-20": 1440,
-      "2025-08-19": 1440
+      "2025-08-20": 1440
     }
   }
 ]
