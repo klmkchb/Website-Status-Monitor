@@ -4,20 +4,20 @@
     "url": "https://www.chbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "85.77%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.93%",
-    "time": 2785,
-    "timeDay": 1644,
-    "timeWeek": 2319,
-    "timeMonth": 2679,
-    "timeYear": 2824,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "76.99%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.91%",
+    "time": 2811,
+    "timeDay": 4532,
+    "timeWeek": 3571,
+    "timeMonth": 3073,
+    "timeYear": 2860,
     "dailyMinutesDown": {
       "2026-07-15": 147,
-      "2026-10-16": 205
+      "2026-10-16": 332
     }
   },
   {
@@ -25,17 +25,17 @@
     "url": "http://www.chbank.com.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
     "slug": "chbank-com-cn",
-    "status": "down",
-    "uptime": "84.79%",
-    "uptimeDay": "85.80%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "74.52%",
-    "time": 1167,
-    "timeDay": 820,
-    "timeWeek": 942,
-    "timeMonth": 1011,
-    "timeYear": 1149,
+    "status": "up",
+    "uptime": "84.78%",
+    "uptimeDay": "77.02%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "74.49%",
+    "time": 1172,
+    "timeDay": 1365,
+    "timeWeek": 1178,
+    "timeMonth": 1085,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2025-11-08": 61,
       "2025-11-07": 288,
@@ -140,7 +140,7 @@
       "2026-09-28": 88,
       "2026-09-27": 93,
       "2026-10-06": 396,
-      "2026-10-16": 205
+      "2026-10-16": 331
     }
   },
   {
@@ -160,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 1312,
+      "2026-10-16": 1439,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 1312,
+      "2026-10-16": 1439,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
