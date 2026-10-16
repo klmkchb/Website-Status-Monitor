@@ -4,19 +4,20 @@
     "url": "https://www.chbank.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2793,
-    "timeDay": 2847,
-    "timeWeek": 2794,
-    "timeMonth": 2823,
-    "timeYear": 2837,
+    "time": 2789,
+    "timeDay": 1713,
+    "timeWeek": 2505,
+    "timeMonth": 2750,
+    "timeYear": 2830,
     "dailyMinutesDown": {
-      "2026-07-15": 147
+      "2026-07-15": 147,
+      "2026-10-16": 1
     }
   },
   {
@@ -24,17 +25,17 @@
     "url": "http://www.chbank.com.cn",
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
     "slug": "chbank-com-cn",
-    "status": "up",
-    "uptime": "84.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "84.81%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "74.55%",
-    "time": 1169,
-    "timeDay": 1029,
-    "timeWeek": 1052,
-    "timeMonth": 1037,
-    "timeYear": 1152,
+    "time": 1167,
+    "timeDay": 544,
+    "timeWeek": 903,
+    "timeMonth": 1005,
+    "timeYear": 1149,
     "dailyMinutesDown": {
       "2025-11-08": 61,
       "2025-11-07": 288,
@@ -138,7 +139,8 @@
       "2026-03-21": 1129,
       "2026-09-28": 88,
       "2026-09-27": 93,
-      "2026-10-06": 396
+      "2026-10-06": 396,
+      "2026-10-16": 1
     }
   },
   {
@@ -158,7 +160,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 124,
+      "2026-10-16": 933,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -542,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 124,
+      "2026-10-16": 933,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
