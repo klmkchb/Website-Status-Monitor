@@ -1,7 +1,7 @@
 url: http://www.chbank.com.cn
-status: up
-code: 200
-responseTime: 975
-lastUpdated: 2026-10-17T01:10:42.623Z
+status: down
+code: 502
+responseTime: 2824
+lastUpdated: 2026-10-17T07:16:50.521Z
 startTime: 2025-01-06T06:23:15.469Z
 generator: Upptime <https://github.com/upptime/upptime>
