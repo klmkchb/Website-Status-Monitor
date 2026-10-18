@@ -5,20 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.ico",
     "slug": "chbank-com",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "96.70%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.89%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.90%",
     "time": 2807,
     "timeDay": 1738,
-    "timeWeek": 3245,
+    "timeWeek": 3267,
     "timeMonth": 2996,
     "timeYear": 2854,
     "dailyMinutesDown": {
       "2026-07-15": 147,
       "2026-10-16": 332,
-      "2026-10-18": 1
+      "2026-10-18": 44
     }
   },
   {
@@ -34,7 +34,7 @@
     "uptimeYear": "74.44%",
     "time": 1174,
     "timeDay": 1581,
-    "timeWeek": 1261,
+    "timeWeek": 1281,
     "timeMonth": 1117,
     "timeYear": 1158,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 74,
+      "2026-10-18": 117,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -546,7 +546,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-18": 74,
+      "2026-10-18": 117,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
