@@ -6,21 +6,20 @@
     "slug": "chbank-com",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "90.50%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.56%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "99.79%",
     "time": 2802,
-    "timeDay": 2151,
-    "timeWeek": 2887,
+    "timeDay": 1738,
+    "timeWeek": 2924,
     "timeMonth": 2866,
     "timeYear": 2843,
     "dailyMinutesDown": {
       "2026-07-15": 147,
       "2026-10-16": 332,
       "2026-10-18": 280,
-      "2026-10-19": 341,
-      "2026-10-21": 6
+      "2026-10-19": 341
     }
   },
   {
@@ -35,8 +34,8 @@
     "uptimeMonth": "96.55%",
     "uptimeYear": "74.38%",
     "time": 1172,
-    "timeDay": 1052,
-    "timeWeek": 1181,
+    "timeDay": 955,
+    "timeWeek": 1192,
     "timeMonth": 1095,
     "timeYear": 1155,
     "dailyMinutesDown": {
@@ -165,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 91,
+      "2026-10-21": 142,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
@@ -549,7 +548,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 91,
+      "2026-10-21": 142,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
       "2026-10-18": 1440,
