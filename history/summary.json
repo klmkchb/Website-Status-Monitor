@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "99.79%",
-    "time": 2799,
-    "timeDay": 2631,
-    "timeWeek": 2569,
-    "timeMonth": 2787,
-    "timeYear": 2843,
+    "time": 2798,
+    "timeDay": 2191,
+    "timeWeek": 2508,
+    "timeMonth": 2772,
+    "timeYear": 2842,
     "dailyMinutesDown": {
       "2026-07-15": 147,
       "2026-10-16": 332,
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chbank.com.cn.ico",
     "slug": "chbank-com-cn",
     "status": "up",
-    "uptime": "85.02%",
+    "uptime": "85.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.97%",
     "uptimeYear": "74.38%",
     "time": 1172,
-    "timeDay": 1064,
-    "timeWeek": 1024,
-    "timeMonth": 1096,
-    "timeYear": 1149,
+    "timeDay": 798,
+    "timeWeek": 1001,
+    "timeMonth": 1088,
+    "timeYear": 1148,
     "dailyMinutesDown": {
       "2025-11-08": 61,
       "2025-11-07": 288,
@@ -156,7 +156,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -164,7 +164,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 201,
+      "2026-10-31": 185,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -527,8 +528,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   },
   {
@@ -540,7 +540,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -548,7 +548,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-30": 201,
+      "2026-10-31": 185,
+      "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
@@ -911,8 +912,7 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
-      "2025-11-01": 1440,
-      "2025-10-31": 1440
+      "2025-11-01": 1440
     }
   }
 ]
